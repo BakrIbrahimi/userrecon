@@ -45,7 +45,7 @@ This is useful if you are running an investigation to determine the usage of the
 
 $ sudo apt update && apt upgrade
 
-$ git clone 
+$ git clone https://github.com/BakrIbrahimi/userrecon.git
 
 $ cd userrecon
 
